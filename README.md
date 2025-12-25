@@ -59,5 +59,5 @@ Python, Streamlit, FAISS, Sentence Transformers, HuggingFace Transformers, FLAN-
 #Author
 
 **Parishi Shah**
-AI & NLP Enthusiast | RAG Systems | Chatbots
+
 
